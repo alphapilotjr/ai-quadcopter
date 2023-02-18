@@ -1,0 +1,3 @@
+#!C:\Users\Bob\Documents\Projects\personal\ai\simulator\AirSim\AirSim\PythonClient\.venv\Scripts\python.exe
+from numba.pycc import main
+main()
